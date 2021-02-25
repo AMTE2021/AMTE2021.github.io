@@ -20,3 +20,5 @@ The workshop will focus on the following areas:
 * Challenges to task-based runtimes in scaling to large clusters
 * Hardware challenges and solutions in using task-based environments
 
+[Committee](./committee.html) | [Call for paper](./paper.html) | [Program](./program.html)
+
