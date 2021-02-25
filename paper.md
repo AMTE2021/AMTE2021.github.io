@@ -1,7 +1,7 @@
 # Call for papers
 
 
-## Deadlines
+## Important dates
 
 * Deadlines for submission: June 16, 2021
 * Notification of acceptance: July 21, 2021
