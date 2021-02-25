@@ -8,4 +8,5 @@
 * Revisions of accepted papers due: August 1, 2021
 * Finalize program: August 3, 2021
 
-@@include[footer.md](footer.md)
+<div data-include="./footer.html"></div>
+
