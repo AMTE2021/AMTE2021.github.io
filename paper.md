@@ -8,6 +8,6 @@
 * Revisions of accepted papers due: August 1, 2021
 * Finalize program: August 3, 2021
 
-
-<include src="https://amte2021.github.io/footer.html"></include>
-
+---
+ 
+[Committee](./committee.html) | [Call for paper](./paper.html) | [Program](./program.html)
