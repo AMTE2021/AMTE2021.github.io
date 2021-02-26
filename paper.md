@@ -3,7 +3,7 @@
 
 ## Important dates
 
-* Submission deadline: June 16, 2021
+* Submission deadline: June 16, 2021 23:59 AoE (UTC-12, Anywhere on Earth Time Zone)
 * Acceptance Notification: July 21, 2021
 * Revisions of accepted papers due: August 1, 2021
 * Finalize program: August 3, 2021
