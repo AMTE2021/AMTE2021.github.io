@@ -20,6 +20,8 @@ Date: August 30 or 31, 2021
 * 3:30pm -3:45 pm Afternoon break
 * 3:45pm - 4:45pm, Panel
 
+All times are in Western European Time ([GMT+1](https://24timezones.com/Lisbon/time))
+
 ---
 
 [Committee](./committee.html) | [Call for paper](./paper.html) | [Program](./program.html)
