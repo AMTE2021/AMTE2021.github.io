@@ -12,8 +12,11 @@ layout: default
 
 # Program committee 
 
+* Bryce Adelstein Lelbach, NVIDIA, USA
+* Mike Bauer, NVIDIA, USA
 * Hartmut Kaiser, Center for Computation & Technology at Louisiana State University, USA
 * Patricia Grubel, Los Alamos National Laboratory, USA 
+* 
 
 ---
 
