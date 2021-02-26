@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Tentative schedule
+# Tentative program schedule
+
+Date: August 30 or 31, 2021
 
 * 9:00am - 9:05 am, Opening Remarks
 * 9:05am - 10:05 am, Keynote Talk  (Thomas Fahringer, UIBK invited)
