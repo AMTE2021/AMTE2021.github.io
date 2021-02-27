@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Organizers
+# Organizing Committee
 
 * Irina Demeshko, Los Alamos National Laboratory, USA
 * Patrick Diehl, Center for Computation & Technology at Louisiana State University, USA
@@ -10,14 +10,14 @@ layout: default
 * Steven R. Brandt, Center for Computation & Technology at Louisiana State University, USA
 * Parsa Amini, Center for Computation & Technology at Louisiana State University, USA
 
-# Program committee 
+# Program Committee 
 
 * Bryce Adelstein Lelbach, NVIDIA, USA
 * Mike Bauer, NVIDIA, USA
 * Hartmut Kaiser, Center for Computation & Technology at Louisiana State University, USA
 * Patricia Grubel, Los Alamos National Laboratory, USA 
-* 
+* To be updated
 
 ---
 
-[Committee](./committee.html) | [Call for paper](./paper.html) | [Program](./program.html)
+[[Index]] | [[Committee]] | [[Call for papers]] | [[Program]]

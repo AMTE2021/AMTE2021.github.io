@@ -24,4 +24,4 @@ All times are in Western European Time ([GMT+1](https://24timezones.com/Lisbon/t
 
 ---
 
-[Committee](./committee.html) | [Call for paper](./paper.html) | [Program](./program.html)
+[[Index]] | [[Committee]] | [[Call for papers]] | [[Program]]
