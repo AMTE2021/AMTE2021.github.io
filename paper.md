@@ -11,7 +11,7 @@
 ## Submissions
 Authors need to submit their work through EasyChair. Organizers will announce the link for submission through EasyChair at a future time. Submissions must be in [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and no longer than ten pages, including the references section.
 
-Each submission will be double-blindly reviewed by at least three program committee members and assessed for quality, relevance, and presentation of contributions. Springer LNCS will publish the accepted papers.
+At least three program committee members will review each submission. Reviews will be double-blind, and papers get assessed for quality, relevance, and presentation of contributions. Springer LNCS will publish the accepted papers.
 
 ## Contact
 For questions or comments regarding the call for papers, please contact ![workshop contact address](workshop_contact.png).
