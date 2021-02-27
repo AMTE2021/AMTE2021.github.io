@@ -14,6 +14,7 @@ layout: default
 
 * Bryce Adelstein Lelbach, NVIDIA, USA
 * Mike Bauer, NVIDIA, USA
-* Hartmut Kaiser, Center for Computation & Technology at Louisiana State University, USA
 * Patricia Grubel, Los Alamos National Laboratory, USA 
+* Thomas Heller, Exasol, Germany
+* Hartmut Kaiser, Center for Computation & Technology at Louisiana State University, USA
 * To be updated
