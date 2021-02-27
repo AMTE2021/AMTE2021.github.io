@@ -17,7 +17,3 @@ layout: default
 * Hartmut Kaiser, Center for Computation & Technology at Louisiana State University, USA
 * Patricia Grubel, Los Alamos National Laboratory, USA 
 * To be updated
-
----
-
-[Index](index) | [Committee](committee) | [Call for papers](call-for-papers) | [Program](program)

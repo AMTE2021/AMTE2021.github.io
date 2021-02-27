@@ -15,7 +15,3 @@ At least three program committee members will review each submission. Reviews wi
 
 ## Contact
 For questions or comments regarding the call for papers, please contact ![workshop contact address](workshop_contact.png).
-
----
- 
-[Index](index) | [Committee](committee) | [Call for papers](call-for-papers) | [Program](program)
