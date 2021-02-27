@@ -22,13 +22,13 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view">[Index](index)</p>
+        <p class="view"><a href="{{ "/" | absolute_url }}">Workshop Homepage</a></p>
 
         <ul class="downloads">
           <li></li>
-          <li>[Committee](committee)</li>
-          <li>[Call for papers](call-for-papers)</li>
-          <li>[Program](program)</li>
+          <li><a href="{{ "/" | absolute_url }}committee">Committee</a></li>
+          <li><a href="{{ "/" | absolute_url }}call-for-papers">Call for papers</a></li>
+          <li><a href="{{ "/" | absolute_url }}program">Program</a></li>
         </ul>
       </header>
       <section>
