@@ -18,4 +18,4 @@ For questions or comments regarding the call for papers, please contact ![worksh
 
 ---
  
-[[Index]] | [[Committee]] | [[Call for papers]] | [[Program]]
+[Index](index) | [Committee](commitee) | [Call for papers](call-for-papers) | [Program](program)

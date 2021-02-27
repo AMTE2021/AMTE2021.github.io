@@ -20,4 +20,4 @@ layout: default
 
 ---
 
-[[Index]] | [[Committee]] | [[Call for papers]] | [[Program]]
+[Index](index) | [Committee](commitee) | [Call for papers](call-for-papers) | [Program](program)
