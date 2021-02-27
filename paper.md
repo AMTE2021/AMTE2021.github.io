@@ -14,7 +14,7 @@ Authors need to submit their work through EasyChair. Organizers will announce th
 Each submission will be double-blindly reviewed by at least three program committee members and assessed for quality, relevance, and presentation of contributions. Springer LNCS will publish the accepted papers.
 
 ## Contact
-For questions or comments regarding the call for papers, please contact <amte21@parsaamini.net>.
+For questions or comments regarding the call for papers, please contact ![workshop contact address](workshop_contact.png).
 
 ---
  
