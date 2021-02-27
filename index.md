@@ -29,5 +29,5 @@ The workshop will focus on the following areas:
 
 ---
 
-[Index](index) | [Committee](commitee) | [Call for papers](call-for-papers) | [Program](program)
+[Index](index) | [Committee](committee) | [Call for papers](call-for-papers) | [Program](program)
 
