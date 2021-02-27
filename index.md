@@ -5,7 +5,8 @@ layout: default
 # Asynchronous Many-Task systems for Exascale 2021
 August 30th or 31st, 2021
 
-Held in conjunction with [Euro-Par 2021](https://2021.euro-par.org/).
+> Held in conjunction with [Euro-Par 2021](https://2021.euro-par.org/)
+> Lisbon, Portugal
 
 The next generation of supercomputers will break the exascale barrier, and tremendous amounts of work have been invested into identifying and overcoming the challenges of the exascale era. These challenges include load-balancing, fast data transfers, and efficient resource utilization.  Task-based models and runtime systems have shown that it is possible to address these challenges by providing additional mechanisms such as oversubscription, task/data locality, shared memory, and data dependence driven execution.
 
