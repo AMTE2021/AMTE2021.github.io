@@ -21,4 +21,5 @@ layout: default
 * Kevin Huck, University of Oregon, USA
 * Hartmut Kaiser, Center for Computation & Technology at Louisiana State University, USA
 * Erwin Laure, Max Planck Computing & Data Facility, Germany
+* Andrew Lumbsdaine, Northwest Institute for Advanced Computing, USA
 * To be updated
