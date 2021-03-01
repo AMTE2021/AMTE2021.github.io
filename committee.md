@@ -16,6 +16,7 @@ layout: default
 * Mike Bauer, NVIDIA, USA
 * John Biddiscombe, Swiss National Supercomputing Centre, Switzerland
 * Patricia Grubel, Los Alamos National Laboratory, USA 
+* Roman Lakymchuk, Fraunhofer ITWM, Germany
 * Thomas Heller, Exasol, Germany
 * Kevin Huck, University of Oregon, USA
 * Hartmut Kaiser, Center for Computation & Technology at Louisiana State University, USA
