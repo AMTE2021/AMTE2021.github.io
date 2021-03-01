@@ -17,5 +17,6 @@ layout: default
 * John Biddiscombe, Swiss National Supercomputing Centre, Switzerland
 * Patricia Grubel, Los Alamos National Laboratory, USA 
 * Thomas Heller, Exasol, Germany
+* Kevin Huck, University of Oregon, USA
 * Hartmut Kaiser, Center for Computation & Technology at Louisiana State University, USA
 * To be updated
