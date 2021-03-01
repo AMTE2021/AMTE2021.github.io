@@ -20,4 +20,5 @@ layout: default
 * Thomas Heller, Exasol, Germany
 * Kevin Huck, University of Oregon, USA
 * Hartmut Kaiser, Center for Computation & Technology at Louisiana State University, USA
+* Erwin Laure, Max Planck Computing & Data Facility, Germany
 * To be updated
