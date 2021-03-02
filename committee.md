@@ -24,4 +24,5 @@ layout: default
 * Erwin Laure, Max Planck Computing & Data Facility, Germany
 * Andrew Lumbsdaine, Northwest Institute for Advanced Computing, USA
 * Dirk Pleiter, Jülich Supercomputing Centre, Germany
+* Didem Unat, Koç University, Turkey
 * To be updated
