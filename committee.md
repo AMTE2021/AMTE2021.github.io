@@ -22,6 +22,7 @@ layout: default
 * Roman Lakymchuk, Fraunhofer ITWM, Germany
 * Thomas Heller, Exasol, Germany
 * Kevin Huck, University of Oregon, USA
+* Laxmikant (Sanjay) V. Kale, University of Illinois at Urbana-Champaign, USA
 * Hartmut Kaiser, Center for Computation & Technology at Louisiana State University, USA
 * Erwin Laure, Max Planck Computing & Data Facility, Germany
 * Andrew Lumbsdaine, Northwest Institute for Advanced Computing, USA
