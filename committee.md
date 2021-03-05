@@ -16,6 +16,7 @@ layout: default
 * Bryce Adelstein Lelbach, NVIDIA, USA
 * Mike Bauer, NVIDIA, USA
 * John Biddiscombe, Swiss National Supercomputing Centre, Switzerland
+* Gregor Daiss, University of Stuttgart, Germany
 * Vassilios Dimakopoulos, University of Ioannina, Greece
 * Patricia Grubel, Los Alamos National Laboratory, USA 
 * Roman Lakymchuk, Fraunhofer ITWM, Germany
