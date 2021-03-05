@@ -12,6 +12,7 @@ layout: default
 
 # Program Committee 
 
+* Metin H. Aktulga, Michigan State University, USA
 * Bryce Adelstein Lelbach, NVIDIA, USA
 * Mike Bauer, NVIDIA, USA
 * John Biddiscombe, Swiss National Supercomputing Centre, Switzerland
