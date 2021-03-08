@@ -14,7 +14,6 @@ layout: default
 
 * Metin H. Aktulga, Michigan State University, USA
 * Bryce Adelstein Lelbach, NVIDIA, USA
-* Mike Bauer, NVIDIA, USA
 * John Biddiscombe, Swiss National Supercomputing Centre, Switzerland
 * Gregor Daiss, University of Stuttgart, Germany
 * Vassilios Dimakopoulos, University of Ioannina, Greece
@@ -31,4 +30,5 @@ layout: default
 * Dirk Pleiter, Jülich Supercomputing Centre, Germany
 * Galen Shipman, Los Alamos National Laboratory, USA
 * Mikael Simberg, Swiss National Supercomputing Centre, Switzerland
+* Sean Treichler, NVIDIA, USA
 * Didem Unat, Koç University, Turkey
