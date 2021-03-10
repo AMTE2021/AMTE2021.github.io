@@ -20,10 +20,9 @@ The topics include, but are not limited to:
 
 ## Important dates
 
-* Submission deadline: May 7, 2021 23:59 AoE (UTC-12, Anywhere on Earth Time Zone)
-* Acceptance Notification: June 23, 2021
-* Revisions of accepted papers due: July 7, 2021
-* Finalize program: July 14, 2021
+* Submission deadline: 28 May 2021, 23:59 Anywhere on Earth (AoE) 
+* Acceptance Notification: 16 July 2021
+* Revisions of accepted papers due: 11 September 2021
 
 ## Submissions
 Authors need to submit their work through EasyChair. Organizers will announce the link for submission through EasyChair at a future time. Submissions must be in [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and no longer than ten pages, including text, the references section, appendices, and figures.
