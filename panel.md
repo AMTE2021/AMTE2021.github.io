@@ -7,6 +7,9 @@ layout: default
 ## Panelists
 
 * Hartmut Kaiser, Center for Computation & Technology at Louisiana State University, USA
+* Laxmikant (Sanjay) Kale, Department of Computer Science,University of Illinoise at Urbana-Champaign, USA
+* Martin Berzins, Scientific Computing and Imaging Institute, University of Utah, USA
+
 
 
 ## Panel's chosen questions
