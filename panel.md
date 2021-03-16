@@ -9,6 +9,7 @@ layout: default
 * Hartmut Kaiser, Center for Computation & Technology at Louisiana State University, USA
 * Laxmikant (Sanjay) Kale, Department of Computer Science,University of Illinoise at Urbana-Champaign, USA
 * Martin Berzins, Scientific Computing and Imaging Institute, University of Utah, USA
+* Mike Bauer, NVIDIA, USA
 
 
 
