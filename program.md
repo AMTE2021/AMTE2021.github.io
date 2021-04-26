@@ -7,7 +7,7 @@ layout: default
 Date: August 30 or 31, 2021
 
 * 9:00am - 9:05 am, Opening Remarks
-* 9:05am - 10:05 am, Keynote Talk  (Thomas Fahringer, UIBK)
+* 9:05am - 10:05 am, [Keynote Talk](keynote.html)  (Thomas Fahringer, UIBK)
 * 10:05am - 10:20am, Morning Break
 * 10:20am - 10:50am Selected paper talk
 * 10:50am - 11:20am, Selected paper talk
