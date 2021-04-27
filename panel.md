@@ -20,7 +20,7 @@ layout: default
 
 * Why should one choose to use AMT models?
 * What kinds of applications will benefit from using AMT models and programming systems?
-* Would AMT models replace MPI in the future?
+* For what kinds of applications is AMT-style programming better suited to creating maintainable code than message passing-style code?
 * Are AMT programs more difficult to debug because it is (1) easier to create race conditions and (2) more difficult to get anything like a stack trace? What is being done to make debugging of large-scale AMT applications easier?
 * What sort of language support is needed for AMT programming?
     - What advantage do newer languages like Go, Julia, etc., have for AMT programming, and can/should they displace C++ for scientific applications?
