@@ -26,7 +26,7 @@ layout: default
 * Laxmikant (Sanjay) V. Kale, University of Illinois at Urbana-Champaign, USA
 * Hartmut Kaiser, Center for Computation & Technology at Louisiana State University, USA
 * Erwin Laure, Max Planck Computing & Data Facility, Germany
-* Andrew Lumbsdaine, Northwest Institute for Advanced Computing, USA
+* Andrew Lumsdaine, Northwest Institute for Advanced Computing, USA
 * Pat McCormick, Los Alamos National Laboratory, USA
 * Dirk Pleiter, Jülich Supercomputing Centre, Germany
 * Galen Shipman, Los Alamos National Laboratory, USA
