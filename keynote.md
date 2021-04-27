@@ -4,9 +4,9 @@ layout: default
 
 # Keynote talk
 
-##Speaker:
+## Speaker:
 
-![Thomas Fahringer](image.jpg)
+![Thomas Fahringer](thomas.jpg)
 
 Thomas Fahringer, Institute of Computer Science, University of Innsbruck, Austria
 
