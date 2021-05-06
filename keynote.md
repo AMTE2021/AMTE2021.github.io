@@ -10,7 +10,7 @@ layout: default
 
 Thomas Fahringer, Institute of Computer Science, University of Innsbruck, Austria
 
-Thomas Fahringer is a Professor of Computer Science at the University of Innsbruck. He is leading a research group in distributed and parallel processing, which develops the ASKALON system to support researchers worldwide in various fields of science and engineering to develop, analyze, optimize and run parallel and distributed scientific applications. Furthermore, he leads a research team that created the Insieme parallelizing and optimizing compiler for heterogeneous multicore parallel computers.
+Thomas Fahringer is a Professor of Computer Science at the University of Innsbruck. He leads a research group in distributed and parallel processing, which develops the ASKALON system to support researchers worldwide in various fields of science and engineering to develop, analyze, optimize and run parallel and distributed scientific applications. Furthermore, he leads a research team that created the Insieme parallelizing and optimizing compiler for heterogeneous multicore parallel computers.
 Fahringer was involved in numerous national and international research projects, including 15 EU-funded projects. He coordinated two H2020 projects, including AllScale - an exascale programming, multi-objective optimization, and resilience management environment based on nested recursive parallelism, 2015 - 2018, and the ENTICE project - Decentralized repositories for transparent and efficient virtual machine operations, 2015 - 2018. Fahringer has published 5 books, 40 journal and magazine articles, and more than 200 reviewed conference papers, including 4 best/distinguished IEEE/ACM papers.
 email: tf@dps.uibk.ac.at
 
