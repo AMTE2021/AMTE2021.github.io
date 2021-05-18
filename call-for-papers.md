@@ -20,7 +20,7 @@ The topics include, but are not limited to:
 
 ## Important dates
 
-* Submission deadline: Extended to *June 14th*  ~~ (14 May 2021, 7 May 2021)~~, 23:59 Anywhere on Earth (AoE) 
+* Submission deadline: Extended to *June 14th* <s>(14 May 2021, 7 May 2021)</s>, 23:59 Anywhere on Earth (AoE) 
 * Acceptance Notification: 30 July 2021
 * Revisions of accepted papers due: 10 September 2021
 
