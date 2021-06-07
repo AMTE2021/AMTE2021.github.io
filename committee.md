@@ -18,6 +18,7 @@ layout: default
 * Gregor Daiss, University of Stuttgart, Germany
 * Vassilios Dimakopoulos, University of Ioannina, Greece
 * Patricia Grubel, Los Alamos National Laboratory, USA 
+* Jeff Hammond, NVIDIA, USA
 * Adrian Lemoine, AMD, USA
 * Roman Lakymchuk, Fraunhofer ITWM, Germany
 * Thomas Heller, Exasol, Germany
