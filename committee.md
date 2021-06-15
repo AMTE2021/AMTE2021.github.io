@@ -35,3 +35,4 @@ layout: default
 * Mikael Simberg, Swiss National Supercomputing Centre, Switzerland
 * Sean Treichler, NVIDIA, USA
 * Didem Unat, Koç University, Turkey
+* Nanmia Wu, Center for Computation & Technology at Louisiana State University, USA
