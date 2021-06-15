@@ -31,6 +31,7 @@ layout: default
 * Pat McCormick, Los Alamos National Laboratory, USA
 * Dirk Pleiter, Jülich Supercomputing Centre, Germany
 * Galen Shipman, Los Alamos National Laboratory, USA
+* Shahrzad Shirzad, Center for Computation & Technology at Louisiana State University, USA
 * Mikael Simberg, Swiss National Supercomputing Centre, Switzerland
 * Sean Treichler, NVIDIA, USA
 * Didem Unat, Koç University, Turkey
