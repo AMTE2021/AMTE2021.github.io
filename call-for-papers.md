@@ -21,8 +21,8 @@ The topics include, but are not limited to:
 ## Important dates
 
 * Submission deadline: Extended to *June 14th* <s>(14 May 2021, 7 May 2021)</s>, 23:59 Anywhere on Earth (AoE) 
-* Acceptance Notification: 30 July 2021
-* Revisions of accepted papers due: 10 September 2021
+* Acceptance Notification: 30 June 2021
+* Revisions of accepted papers due: 1 August 2021
 
 ## Submissions
 Authors need to submit their work through [EasyChair](https://easychair.org/my/conference?conf=europar2021#). Submissions must be in [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and no longer than ten pages, including text, the references section, appendices, and figures.
