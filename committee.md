@@ -30,6 +30,7 @@ layout: default
 * Andrew Lumsdaine, Northwest Institute for Advanced Computing, USA
 * Pat McCormick, Los Alamos National Laboratory, USA
 * Dirk Pleiter, Jülich Supercomputing Centre, Germany
+* Brad Richardson, Sourcery Institute, USA
 * Galen Shipman, Los Alamos National Laboratory, USA
 * Shahrzad Shirzad, Center for Computation & Technology at Louisiana State University, USA
 * Mikael Simberg, Swiss National Supercomputing Centre, Switzerland
