@@ -14,7 +14,7 @@ Date: August 30 or 31, 2021
 * 11:20am - 11:50am, Paper 237: Combining OpenMP tasking and target (GPU) offloading for productivity and performance on heterogeneous systems
 * 11:50am - 12:20pm, Paper 242: Understanding the Effect of Task Granularity on Execution Time in Asynchronous Many-Task Runtime Systems
 * 12:20pm - 1:30pm, Lunch Break
-* 1:30pm - 2:30pm, Invited talk (Daisy S. Hollman, Google, USA)
+* 1:30pm - 2:30pm, [Invited talk](invited-talk.html) (Daisy S. Hollman, Google, USA)
 * 2:30pm - 3:00pm, Paper 286: FleCSI 2.0: The Flexible Computational Science Infrastructure Project
 * 3:45pm - 4:45pm, [Panel discussion](panel.html)
 

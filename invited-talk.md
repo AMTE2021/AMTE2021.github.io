@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Keynote talk
+# Invited talk
 
 ## Speaker:
 
