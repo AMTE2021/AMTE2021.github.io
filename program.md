@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Tentative program schedule
+# Program schedule
 
-Date: August 30 or 31, 2021
+Date: Monday August 30, 2021
 
 * 9:00am - 9:05 am, Opening Remarks
 * 9:05am - 10:05 am, [Keynote Talk](keynote.html)  (Thomas Fahringer, UIBK)
@@ -19,3 +19,5 @@ Date: August 30 or 31, 2021
 * 3:45pm - 4:45pm, [Panel discussion](panel.html)
 
 All times are in Western European Time ([GMT+1](https://24timezones.com/Lisbon/time))
+
+The complete EuroPar workshop program is available [here](https://2021.euro-par.org/program/workshops/).
