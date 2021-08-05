@@ -25,7 +25,7 @@ layout: default
 * What sort of language support is needed for AMT programming?
     - What advantage do newer languages like Go, Julia, etc., have for AMT programming, and can/should they displace C++ for scientific applications?
     - Many languages have added "await" or some variant as new keywords for processing asynchronous code. How important is this feature for the success of the AMT paradigm?
-* How to choose which AMT programming model among others?
+* How does one choose which AMT programming model among others?
 
 ## Outline
 
