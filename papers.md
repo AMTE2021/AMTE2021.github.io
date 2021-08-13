@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# Accpeted papers
+# Accepted papers
 
 
-## Accelerating Messages by Avoiding Copies in an Asynchronous Task-based Programming Model
+## Enabling support for zero copy semantics in an Asynchronous Task-based Programming Model
 
 *Authors:* Nitin Bhat, Sam White, and Laxmikant V Kale
 
