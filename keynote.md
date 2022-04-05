@@ -6,7 +6,7 @@ layout: default
 
 ## Speaker:
 
-![Thomas Fahringer](thomas.jpg)
+![Thomas Fahringer](/assets/thomas.jpg)
 
 Thomas Fahringer, Institute of Computer Science, University of Innsbruck, Austria
 

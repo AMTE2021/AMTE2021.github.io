@@ -6,7 +6,7 @@ layout: default
 
 ## Speaker:
 
-![Daisy Hollman](daisy.jpg)
+![Daisy Hollman](/assets/daisy.jpg)
 
 Dr. Daisy S. Hollman, Google, USA
 

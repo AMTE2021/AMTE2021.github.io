@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Call for papers
 
 The next generation of supercomputers will break the exascale barrier, and tremendous amounts of work have been invested into identifying and overcoming the challenges of the exascale era. These challenges include load-balancing, fast data transfers, and efficient resource utilization.  Task-based models and runtime systems have shown that it is possible to address these challenges by providing additional mechanisms such as oversubscription, task/data locality, shared memory, and data dependence-driven execution. 
@@ -30,4 +33,4 @@ Authors need to submit their work through [EasyChair](https://easychair.org/my/c
 At least three program committee members will review each submission. Reviews will be double-blind, and papers get assessed for quality, relevance, and presentation of contributions. Springer LNCS will publish the accepted papers.
 
 ## Contact
-For questions or comments regarding the call for papers, please contact ![workshop contact address](workshop_contact.png).
+For questions or comments regarding the call for papers, please contact ![workshop contact address](/assets/workshop_contact.png).
