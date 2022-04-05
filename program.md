@@ -21,7 +21,7 @@ Chair: Patrick Diehl
 
 Chair: Patrick Diehl
 
-* 10:50am - 11:10am, Paper 287: Accelerating Messages by Avoiding Copies in an Asynchronous Task-based Programming Model
+* 10:50am - 11:10am, Paper 287: Enabling support for zero copy semantics in an Asynchronous Task-based Programming Model
 * 11:10am - 11:30am, Paper 246: An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads
 * 11:30am - 12:00am, Paper 237: Combining OpenMP tasking and target (GPU) offloading for productivity and performance on heterogeneous systems
 * 12:00am - 12:20pm, Paper 242: Understanding the Effect of Task Granularity on Execution Time in Asynchronous Many-Task Runtime Systems

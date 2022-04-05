@@ -1,4 +1,5 @@
 - title: Enabling support for zero copy semantics in an Asynchronous Task-based Programming Model
+  id: 287
   authors: Nitin Bhat, Sam White, and Laxmikant V Kale
   abstract: >
     Communication is critical to the scalable and efficient performance of
@@ -24,6 +25,7 @@
     on user-facing APIs in Charm++.
 
 - title: Combining OpenMP tasking and target (GPU) offloading for productivity and performance on heterogeneous systems
+  id: 237
   authors: Pedro Valero-Lara, Jungwon Kim, Oscar Hernandez, and Jeffrey Vetter
   abstract: >
     "We evaluate the use of OpenMP tasking with target (GPU) offloading as a
@@ -42,6 +44,7 @@
     of the ORNL's supercomputer Summit."
 
 - title: "FleCSI 2.0: The Flexible Computational Science Infrastructure Project"
+  id: 286
   authors: Ben Bergen, Irina Demeshko, Charles Ferenbaugh, Davis Herring, Li-Ta Lo, Julien Loiseau, Navamita Ray and Andrew Reisner
   abstract: >
     The FleCSI 2.0 programming system supports multiphysics application
@@ -59,6 +62,7 @@
     across heterogeneous computing architectures.
 
 - title: An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads
+  id: 246
   authors: Cheng-Hsiang Chiu, Dian-Lun Lin, and Tsung-Wei Huang
   abstract: >
     Task graph parallelism has emerged as an important tool to efficiently
@@ -80,6 +84,7 @@
     model in the standard.
 
 - title: Understanding the Effect of Task Granularity on Execution Time in Asynchronous Many-Task Runtime Systems
+  id: 242
   authors: Shahrzad Shirzad, Rod Tohid, Alireza Kheirkhahan, Bibek Wagle and Hartmut Kaiser
   abstract: >
     Task granularity is a key factor in determining the performance of
