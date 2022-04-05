@@ -29,8 +29,8 @@ Slides:
 {% endif %}
 {% endcomment %}
 
-*Authors:* {{ paper.authors }}
+**_Authors_**: {{ paper.authors | join: ", " }}
 
-{{ paper.abstract }}
+**_Abstract_**: {{ paper.abstract }}
 
 {% endfor %}

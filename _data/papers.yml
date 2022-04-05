@@ -1,6 +1,9 @@
 - title: Enabling support for zero copy semantics in an Asynchronous Task-based Programming Model
   id: 287
-  authors: Nitin Bhat, Sam White, and Laxmikant V Kale
+  authors:
+    - Nitin Bhat
+    - Sam White
+    - Laxmikant V Kale
   abstract: >
     Communication is critical to the scalable and efficient performance of
     scientific simulations on extreme scale computing systems. Part of the promise
@@ -26,9 +29,13 @@
 
 - title: Combining OpenMP tasking and target (GPU) offloading for productivity and performance on heterogeneous systems
   id: 237
-  authors: Pedro Valero-Lara, Jungwon Kim, Oscar Hernandez, and Jeffrey Vetter
+  authors:
+    - Pedro Valero-Lara
+    - Jungwon Kim
+    - Oscar Hernandez
+    - Jeffrey Vetter
   abstract: >
-    "We evaluate the use of OpenMP tasking with target (GPU) offloading as a
+    We evaluate the use of OpenMP tasking with target (GPU) offloading as a
     potential solution for programming productivity and performance on
     heterogeneous systems. As test case, We use one of the most popular and widely
     used BLAS Level-3 routines, triangular solver(TRSM). To benefit from the
@@ -41,11 +48,19 @@
     magnitude. The performance achieved by this approach is faster than the IBM
     ESSL math library on CPU and competitive w.r.t. a highly optimized
     heterogeneous CUDA version. For the performance analysis, we have used one node
-    of the ORNL's supercomputer Summit."
+    of the ORNL's supercomputer Summit.
 
 - title: "FleCSI 2.0: The Flexible Computational Science Infrastructure Project"
   id: 286
-  authors: Ben Bergen, Irina Demeshko, Charles Ferenbaugh, Davis Herring, Li-Ta Lo, Julien Loiseau, Navamita Ray and Andrew Reisner
+  authors:
+    - Ben Bergen
+    - Irina Demeshko
+    - Charles Ferenbaugh
+    - Davis Herring
+    - Li-Ta Lo
+    - Julien Loiseau
+    - Navamita Ray
+    - Andrew Reisner
   abstract: >
     The FleCSI 2.0 programming system supports multiphysics application
     development through a runtime abstraction layer, and by providing core topology
@@ -63,7 +78,10 @@
 
 - title: An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads
   id: 246
-  authors: Cheng-Hsiang Chiu, Dian-Lun Lin, and Tsung-Wei Huang
+  authors:
+  - Cheng-Hsiang Chiu
+  - Dian-Lun Lin
+  - Tsung-Wei Huang
   abstract: >
     Task graph parallelism has emerged as an important tool to efficiently
     execute large machine learning workloads on GPUs. Users describe a GPU workload
@@ -85,7 +103,12 @@
 
 - title: Understanding the Effect of Task Granularity on Execution Time in Asynchronous Many-Task Runtime Systems
   id: 242
-  authors: Shahrzad Shirzad, Rod Tohid, Alireza Kheirkhahan, Bibek Wagle and Hartmut Kaiser
+  authors:
+    - Shahrzad Shirzad
+    - Rod Tohid
+    - Alireza Kheirkhahan
+    - Bibek Wagle
+    - Hartmut Kaiser
   abstract: >
     Task granularity is a key factor in determining the performance of
     asynchronous many-task (AMT) runtime systems. The over-head of scheduling an
