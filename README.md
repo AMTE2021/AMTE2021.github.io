@@ -8,12 +8,12 @@ This workshop explores the advantages of task-based programming on modern and fu
 
 The workshop will focus on the following areas:
 
-    * Novel task-based runtime environments
-    * Experiences of using task-based runtime environments for large applications
-    * Experiences comparing task-based runtime environments
-    * Experiences gathered from porting one large-scale parallel solution to another, e.g., MPI to Charm++, etc.
-    * Profiling and performance monitoring of task-based environments
-    * Benchmarks for task-based runtimes
-    * Tools for debugging programs using task-based runtimes
-    * Challenges to task-based runtimes in scaling to large clusters
-    * Hardware challenges and solutions in using task-based environments
+* Novel task-based runtime environments
+* Experiences of using task-based runtime environments for large applications
+* Experiences comparing task-based runtime environments
+* Experiences gathered from porting one large-scale parallel solution to another, e.g., MPI to Charm++, etc.
+* Profiling and performance monitoring of task-based environments
+* Benchmarks for task-based runtimes
+* Tools for debugging programs using task-based runtimes
+* Challenges to task-based runtimes in scaling to large clusters
+* Hardware challenges and solutions in using task-based environments
