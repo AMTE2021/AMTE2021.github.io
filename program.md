@@ -11,7 +11,7 @@ Date: Monday August 30, 2021
 Chair: Patrick Diehl
 
 * 9:00am - 9:05 am, Opening Remarks
-* 9:05am - 10:00 am, [Keynote Talk](keynote.html)  (Thomas Fahringer, UIBK)
+* 9:05am - 10:00 am, [Keynote Talk](keynote) (Thomas Fahringer, UIBK)
 
 ---
 
@@ -34,7 +34,7 @@ Chair: Patrick Diehl
 
 Chair: Steven R. Brandt
 
-* 1:30pm - 2:30pm, [Invited talk](invited-talk.html) (Daisy S. Hollman, Google, USA)
+* 1:30pm - 2:30pm, [Invited talk](invited-talk) (Daisy S. Hollman, Google, USA)
 * 2:30pm - 3:00pm, Paper 286: FleCSI 2.0: The Flexible Computational Science Infrastructure Project
 
 ---
@@ -45,10 +45,10 @@ Chair: Steven R. Brandt
 
 Moderator: Irina Demeshko
 
-* 3:00pm - 4:45pm, [Panel discussion](panel.html)
+* 3:00pm - 4:45pm, [Panel discussion](panel)
 
 ---
 
 All times are in Western European Time ([GMT+1](https://24timezones.com/Lisbon/time))
 
-The complete EuroPar workshop program is available [here](https://2021.euro-par.org/program/workshops/).
+The complete EuroPar workshop program is available at: <https://2021.euro-par.org/program/workshops/>.
